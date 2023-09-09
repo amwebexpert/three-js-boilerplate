@@ -16,3 +16,12 @@ $ npm run start
 ```
 
 Open http://localhost:8080 to view your project.
+
+Modify `public/examples/3d-obj-loader/index.html` by importing the right script.js file and see the result:
+
+* http://localhost:8080/examples/3d-obj-loader/index.html
+
+Variant:
+
+- /examples/3d-obj-loader/scripts-fox-on-aws-s3.js
+- /examples/3d-obj-loader/r2-d2.js
