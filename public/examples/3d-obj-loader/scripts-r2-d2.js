@@ -21,6 +21,7 @@ fillLight.position.set(100, 0, 100);
 var backLight = new THREE.DirectionalLight(0xffffff, 1.0);
 backLight.position.set(100, 0, -100).normalize();
 
+//scene.add(new THREE.AmbientLight(0xffffff, 0.6));
 scene.add(keyLight);
 scene.add(fillLight);
 scene.add(backLight);
