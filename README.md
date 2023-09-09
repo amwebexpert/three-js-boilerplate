@@ -23,5 +23,6 @@ Modify `public/examples/3d-obj-loader/index.html` by importing the right script.
 
 Variant:
 
-- /examples/3d-obj-loader/scripts-fox-on-aws-s3.js
+- /examples/3d-obj-loader/scripts-parrot-from-github.js
+- /examples/3d-obj-loader/scripts-fox2-from-github.js.js
 - /examples/3d-obj-loader/scripts-r2-d2.js
